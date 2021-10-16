@@ -16,7 +16,8 @@ def subtract(num1, num2):
 
 def multiply(num1, num2):
     """Multiply the two inputs together."""
-
+    multiply = num1 * num2
+    return multiply
 
 def divide(num1, num2):
     """Divide the first input by the second and return the result."""
