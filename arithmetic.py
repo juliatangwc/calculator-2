@@ -10,8 +10,8 @@ def add(num1, num2):
 
 def subtract(num1, num2):
     """Return the second number subtracted from the first."""
-    answer = num1 - num2
-    return answer
+    subtract = num1 - num2
+    return subtract
 
 
 def multiply(num1, num2):
@@ -35,7 +35,8 @@ def cube(num1):
 
 def power(num1, num2):
     """Raise num1 to the power of num2 and return the value."""
-
+    power = num1 ** num2
+    return power
 
 def mod(num1, num2):
     """Return the remainder of num1 / num2."""
